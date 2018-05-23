@@ -1,24 +1,24 @@
 {
-    "name": "oyleanu/taobao-top-client",
+    "name": "xiaobozi/tdd",
     "type": "library",
     "description": "Taobao top client(SDK) for laravel 5.5",
-    "keywords": ["taobao", "laravel", "sdk", "api"],
-    "homepage": "https://github.com/oyleanu/taobao-top-client",
+    "keywords": ["tdd", "laravel", "sdk", "api"],
+    "homepage": "https://github.com/xiaobozi/tdd",
     "license": "MIT",
     "authors": [
         {
-            "name": "oyleanu",
-            "email": "oyleanu@163.com"
+            "name": "xiaobozi",
+            "email": "6066395@qq.com"
         }
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "~5.0|~5.1|~5.2|~5.3|~5.4|~5.5",
+        "illuminate/support": "~5.0|~5.1|~5.2|~5.3|~5.4|~5.5|~5.6",
         "graham-campbell/manager": "^2.0|^3.0"
     },
     "autoload": {
         "psr-4": {
-            "Oyleanu\\TopClient\\": "src/",
+            "xiaobozi\\TopClient\\": "src/",
             "Top\\": "src/Top/"
         }
     }
