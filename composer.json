@@ -1,7 +1,7 @@
 {
     "name": "xiaobozi/tdd",
     "type": "library",
-    "description": "Taobao top client(SDK) for laravel 5.5",
+    "description": "tdd",
     "keywords": ["tdd", "laravel", "sdk", "api"],
     "homepage": "https://github.com/xiaobozi/tdd",
     "license": "MIT",
