@@ -1,5 +1,10 @@
 <?php
 
+namespace Top\Request;
+
+use Top\RequestCheckUtil;
+
+
 class TbkItemConvertLinkRequest
 {
 

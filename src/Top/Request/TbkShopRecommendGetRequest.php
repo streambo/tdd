@@ -1,4 +1,9 @@
 <?php
+
+namespace Top\Request;
+
+use Top\RequestCheckUtil;
+
 /**
  * TOP API: taobao.tbk.shop.recommend.get request
  * 
