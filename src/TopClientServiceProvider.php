@@ -1,5 +1,5 @@
 <?php
-namespace Oyleanu\TopClient;
+namespace xiaobozi\TopClient;
 
 use Illuminate\Foundation\Application as LaravelApplication;
 use Laravel\Lumen\Application as LumenApplication;

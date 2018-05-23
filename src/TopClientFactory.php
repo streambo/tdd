@@ -1,5 +1,5 @@
 <?php
-namespace Oyleanu\TopClient;
+namespace xiaobozi\TopClient;
 
 use Top\TopClient;
 

@@ -1,5 +1,5 @@
 <?php 
-namespace Oyleanu\TopClient\Facades;
+namespace xiaobozi\TopClient\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
