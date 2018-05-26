@@ -1,5 +1,8 @@
 <?php
-namespace App\Lib\Top\Request;
+
+namespace Top\Request;
+
+use Top\RequestCheckUtil;
 /**
  * TOP API: taobao.tae.item.detail.get request
  * 
