@@ -117,6 +117,12 @@ class TbkOrderGetRequest
 	{
 		return $this->apiParas;
 	}
+
+	public function getApiMethodName()
+	{
+		return "taobao.tbk.order.get";
+	}
+
 	
 	public function check()
 	{
