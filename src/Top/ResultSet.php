@@ -14,11 +14,16 @@ class ResultSet
 	/** 
 	 * 返回的错误码
 	 **/
-	public $code;
+	public $code ;
 	
 	/** 
 	 * 返回的错误信息
 	 **/
 	public $msg;
+
+	public $sub_code;
+
+	public $sub_msg;
+
 	
 }
